@@ -55,7 +55,7 @@ This project implements a machine learning pipeline to predict Melbourne housing
 ```
 Predicting Melbourne Housing Prices/
 │
-├── sit307 Task 8.2D.ipynb    # Main Jupyter notebook with analysis and modeling
+├── sit307 Task 8.2D.ipynb     # Main Jupyter notebook with analysis and modeling
 ├── app.py                     # Gradio web application for predictions
 ├── final_data_sorted.csv      # Dataset containing Melbourne housing data
 ├── requirements.txt           # Python dependencies
